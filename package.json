@@ -1,0 +1,26 @@
+{
+  "name": "jscoderetreat-hh",
+  "version": "0.1.0",
+  "description": "Learning TDD",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -q -x 'babel-node index.js'",
+    "test": "nodemon -q -x 'ava test.js'"
+  },
+  "contributors": [
+    {
+      "name": "Björn Brauer",
+      "email": "bjoernjohannes@gmail.com"
+    },
+    {
+      "name": "Markus Wolf",
+      "email": "knister.peter@shadowrun-clan.de"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.7.0",
+    "babel": "5.8.29",
+    "nodemon": "1.8.1"
+  }
+}
