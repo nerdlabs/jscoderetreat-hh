@@ -39,14 +39,15 @@ If you want use some other tools feel free to modify the project.
 # Sponsors
 
 ##SinnerSchrader
-[![SinnerSchrader](./sponsors/sinnerschrader.svg)](https://sinnerschrader.com)
+
+[![SinnerSchrader](https://cdn.rawgit.com/nerdlabs/jscoderetreat-hh/master/sponsors/sinnerschrader.svg)](https://sinnerschrader.com)
 ##Jimdo
-[![Jimdo](./sponsors/jimdo.png)](http://de.jimdo.com/)
+[![Jimdo](https://cdn.rawgit.com/nerdlabs/jscoderetreat-hh/master/sponsors/jimdo.png)](http://de.jimdo.com/)
 ##Costa Digital
-[![aida](./sponsors/aida.svg)](http://costadigital.io/)
-[![costa](./sponsors/costa.svg)](http://costadigital.io/)
+[![aida](https://cdn.rawgit.com/nerdlabs/jscoderetreat-hh/master/sponsors/aida.svg)](http://costadigital.io/)
+[![costa](https://cdn.rawgit.com/nerdlabs/jscoderetreat-hh/master/sponsors/costa.svg)](http://costadigital.io/)
 ##Ubilabs
-[![Ubilabs](./sponsors/ubilabs.svg)](http://www.ubilabs.net/)
+[![Ubilabs](https://cdn.rawgit.com/nerdlabs/jscoderetreat-hh/master/sponsors/ubilabs.svg)](http://www.ubilabs.net/)
 
 ---
 Inspired by [jscodereatreat](http://jscoderetreat.com/) and [coderetreat](http://coderetreat.org/)
