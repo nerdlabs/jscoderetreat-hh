@@ -4,10 +4,12 @@ Welcome to the jscoderetreat HH 2015!
 
 ## Getting started
 
-Install nodejs (or use nvm or nave).
+Install nodejs (or use nvm or nave) and git.
 
 ```shell
-npm install jscoderetreat-hh
+git clone https://github.com/nerdlabs/jscoderetreat-hh.git
+cd jscoderetreat-hh
+npm install
 ```
 
 Open two terminals next to each other and run:
