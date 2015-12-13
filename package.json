@@ -4,8 +4,8 @@
   "description": "Learning TDD",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -q -x 'babel-node index.js'",
-    "test": "nodemon -q -x 'ava test.js'"
+    "start": "babel -qwo .tmp/index.js index.js",
+    "test": "nodemon -q -w .tmp/index.js -w test.js -x 'ava test.js'"
   },
   "contributors": [
     {

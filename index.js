@@ -1,1 +1,3 @@
-console.log('Hello jscoderetreat!');
+export function main() {
+	return 0;
+}
